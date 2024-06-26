@@ -24,6 +24,8 @@ https://carla.readthedocs.io/en/latest/build_windows/　
 | ソフトウェア | ROS2 Foxy    | Foxy       |
 | ツール   | GitHub        | -          |
 
+## 2. CARLAの構築
+
 ## CARLAの利用について
 CARLA を使用する場合は、CoRL'17 の論文を引用してください。
 CARLA: オープンな都市運転シミュレータ
