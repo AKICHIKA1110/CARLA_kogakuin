@@ -1,5 +1,5 @@
 # CARLAの導入手順
-## 事前準備
+## 1.事前準備
 1. Githubアカウントの作成　　
 2. Epic games アカウントの作成　　
 3. Epic gamesとGithubアカウントの連携　　
