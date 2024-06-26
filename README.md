@@ -14,12 +14,19 @@ https://carla.readthedocs.io/en/latest/build_windows/　
 - 6GB以上のGPU
 - 良好なインターネット接続と2つのTCPポート（2000と2001)  
 
+
+- CMake https://cmake.org/download/  
+- Git https://git-scm.com/downloads
+- Make==3.8.1
+- 7Zip
+- Python3 x64 
+
 | 分類    | 名称          | バージョン |
 | ------- | ------------- | ---------- |
 | ソフトウェア | CARLA      | 0.9.15       |
 | ライブラリ | NumPy         | 1.21       |
 | ライブラリ | Pandas        | 1.3        |
-| ソフトウェア | Unreal Engine | 5.1        |
+| ソフトウェア | Unreal Engine | 4.26      |
 | ハードウェア | NVIDIA GeForce RTX 4080 | -         |
 | ソフトウェア | ROS2 Foxy    | Foxy       |
 | ツール   | GitHub        | -          |
