@@ -16,7 +16,7 @@ https://carla.readthedocs.io/en/latest/build_windows/　
 
 | 分類    | 名称          | バージョン |
 | ------- | ------------- | ---------- |
-| ソフトウェア | Blender       | 3.0        |
+| ソフトウェア | CARLA      | 0.9.15       |
 | ライブラリ | NumPy         | 1.21       |
 | ライブラリ | Pandas        | 1.3        |
 | ソフトウェア | Unreal Engine | 5.1        |
