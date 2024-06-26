@@ -7,6 +7,19 @@
 ## Windows用のビルドガイド　　
 https://carla.readthedocs.io/en/latest/build_windows/　
 
+### システム要件＆実行環境
+
+
+| 分類    | 名称          | バージョン |
+| ------- | ------------- | ---------- |
+| ソフトウェア | Blender       | 3.0        |
+| ライブラリ | NumPy         | 1.21       |
+| ライブラリ | Pandas        | 1.3        |
+| ソフトウェア | Unreal Engine | 5.1        |
+| ハードウェア | NVIDIA GeForce RTX 4080 | -         |
+| ソフトウェア | ROS2 Foxy    | Foxy       |
+| ツール   | GitHub        | -          |
+
 ## CARLAの利用について
 CARLA を使用する場合は、CoRL'17 の論文を引用してください。
 CARLA: オープンな都市運転シミュレータ
