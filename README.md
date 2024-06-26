@@ -19,7 +19,6 @@ Alexey Dosovitskiy、German Ros、Felipe Codevilla、Antonio Lopez、Vladlen Kol
   year = {2017}
 }
 # 参考文献
-[1] End-to-EndࣗಈӡసϞσϧվળͷͨΊͷ
-ը૾ೝࣝαϒλεΫͷઃܭͱධՁ
-Design and Evaluation Image Recognition Sub-tasks to Improve
-End-to-End Learning Model for Self Driving Carshttps://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1L2J1101/_pdf/-char/ja
+[1] Design and Evaluation Image Recognition Sub-tasks to Improve
+End-to-End Learning Model for Self Driving Cars  
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_1L2J1101/_pdf/-char/ja
